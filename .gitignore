@@ -1,0 +1,11 @@
+# Java
+*.class
+*.jar
+
+# IntelliJ IDEA
+/.idea/
+/out/
+/*.iml
+
+# ОС
+.DS_Store

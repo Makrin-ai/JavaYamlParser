@@ -1,0 +1,13 @@
+course_name is "Java Programming"
+students_count is 25
+topics is {
+    t1 = "Основы"
+    t2 = "ООП"
+    t3 = "Алгоритмы"
+}
+
+course is {
+    name = [course_name]
+    students = [students_count]
+    syllabus = [topics]
+}

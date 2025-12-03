@@ -1,0 +1,14 @@
+server_name is "MyServer"
+port is 8080
+
+routes is {
+    r1 = "/"
+    r2 = "/login"
+    r3 = "/logout"
+}
+
+server_config is {
+    name = [server_name]
+    port = [port]
+    endpoints = [routes]
+}
