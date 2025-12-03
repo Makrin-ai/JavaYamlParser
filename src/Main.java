@@ -12,7 +12,7 @@ public class Main {
         Map<String, Object> output = new LinkedHashMap<>();
 
         BufferedReader console = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Введите путь к файлу с тестом:");
+        System.out.println("Введите путь к файлу с тестом(пример:/Users/manulvenerable/Downloads/MyYamlProject/lib/tests/course.txt):");
         String filePath = console.readLine().trim();
 
         // Читаем файл
