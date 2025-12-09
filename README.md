@@ -106,5 +106,3 @@ course:
     t1: Основы
     t2: ООП
     t3: Алгоритмы
-
-<img width="829" height="288" alt="Screenshot 2025-12-09 at 19 35 20" src="https://github.com/user-attachments/assets/9743a6dc-4d24-4f60-9888-b03a7f7fd066" />
