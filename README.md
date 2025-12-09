@@ -68,10 +68,16 @@ javac -cp lib/snakeyaml-2.0.jar -d out/production/MyYamlProject src/Main.java
 java -cp "out/production/MyYamlProject:lib/snakeyaml-2.0.jar" Main
 После запуска программа запросит путь к файлу с конфигурацией:
 Введите путь к файлу с тестом:
-Пример ввода польователем:
+Пример ввода пользователем macOS:
 /Users/user/Downloads/MyYamlProject/lib/tests/course.txt
 или
 /Users/user/Downloads/MyYamlProject/lib/tests/web_server.txt
+Пример ввода пользователем Windows:
+C:\Users\UserName\Documents\tests\course.txt
+или
+C:\\Users\\UserName\\Documents\\tests\\course.txt
+
+
 4. ПРИМЕРЫ ИСПОЛЬЗОВАНИЯ
 Пример 1: Конфигурация курса
 Файл course.txt:
@@ -101,3 +107,4 @@ course:
     t2: ООП
     t3: Алгоритмы
 
+<img width="829" height="288" alt="Screenshot 2025-12-09 at 19 35 20" src="https://github.com/user-attachments/assets/9743a6dc-4d24-4f60-9888-b03a7f7fd066" />
